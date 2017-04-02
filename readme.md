@@ -1,3 +1,3 @@
 
 this is the first html i have ever write.
-so do i
+Creating a new branch is quick & simple
